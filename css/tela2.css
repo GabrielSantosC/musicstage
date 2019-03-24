@@ -1,0 +1,1102 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+
+.tela2 {
+  width               : 100%;
+  min-width           : 375px;
+  height              : 100vh;
+  min-height          : 812px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.tela2 .tutorialsu2013dark {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 812px;
+  width               : 375px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 812px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .bgwallpaper {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 812px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .bgwallpaper .bgwallpaper2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 812px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .iphonexbottombar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 796px;
+  height              : 6px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .iphonexbottombar .iphonexbottombar2 {
+  background-color    : rgba(114, 125, 138, 1.0);
+  top                 : 0px;
+  height              : 6px;
+  width               : 160px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.tela2 .tutorialsu2013dark .buttons {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 754px;
+  height              : 20px;
+  width               : 344px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .buttons .skip {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  width               : 34px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .buttons .skip .voltar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.tela2 .tutorialsu2013dark .buttons .next {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 18px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 298px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .buttons .next .pr363ximo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.tela2 .tutorialsu2013dark .findyourbooks {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 569px;
+  height              : 25px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 94px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .findyourbooks .descubraoscursos {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.tela2 .tutorialsu2013dark .weprovidethelarge {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 606px;
+  height              : 34px;
+  width               : 264px;
+  position            : absolute;
+  margin              : 0;
+  left                : 48px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .weprovidethelarge .comonossoalgoritmodepesquisairemos {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.tela2 .tutorialsu2013dark .weprovidethelarge .encontrarcursosqueser343operfeitosparavoc352 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.tela2 .tutorialsu2013dark .illustration {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 131px;
+  height              : 327px;
+  width               : 326px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 306px;
+  width               : 278px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2266 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 147px;
+  height              : 141px;
+  width               : 71px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2266 .caminho332 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 17px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2266 .caminho333 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 7px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2266 .agrupar2265 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2266 .agrupar2265 .caminho334 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 36px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2266 .agrupar2265 .caminho335 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 24px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2266 .agrupar2265 .linha9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 4px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2266 .agrupar2265 .linha10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : 4px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2266 .caminho336 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 48px;
+  height              : 93px;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2266 .caminho337 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 99px;
+  height              : 42px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho338 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 113px;
+  height              : 85px;
+  width               : 75px;
+  position            : absolute;
+  margin              : 0;
+  left                : 193px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho339 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 82px;
+  height              : 34px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 243px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2267 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 42px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 239px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2267 .caminho340 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 41px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2267 .caminho341 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 4px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2267 .caminho342 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 36px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2267 .caminho343 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 38px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho344 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 81px;
+  height              : 17px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 256px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho345 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 166px;
+  height              : 120px;
+  width               : 192px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2269 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 65px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2269 .ret342ngulo17256 {
+  background-color    : rgba(255, 236, 210, 1.0);
+  top                 : 46px;
+  height              : 17px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(-76.6760025024deg); /* IE 9 */
+  -webkit-transform   : rotate(-76.6760025024deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-76.6760025024deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2269 .ret342ngulo17257 {
+  background-color    : rgba(243, 252, 255, 1.0);
+  top                 : 40px;
+  height              : 17px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  -ms-transform       : rotate(-76.6760025024deg); /* IE 9 */
+  -webkit-transform   : rotate(-76.6760025024deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-76.6760025024deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2269 .agrupar2268 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 49px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2269 .agrupar2268 .caminho346 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 45px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2269 .agrupar2268 .caminho347 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 33px;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2269 .agrupar2268 .linha11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 6px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2269 .agrupar2268 .linha12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : 5px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho348 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 167px;
+  height              : 29px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 178px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho349 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 191px;
+  height              : 99px;
+  width               : 157px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho350 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 168px;
+  height              : 138px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 109px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho351 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : 72px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 180px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho352 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 159px;
+  width               : 79px;
+  position            : absolute;
+  margin              : 0;
+  left                : 144px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho353 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 151px;
+  height              : 24px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 179px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho354 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 151px;
+  height              : 16px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho355 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 109px;
+  height              : 50px;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 173px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho356 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : 17px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 176px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho357 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 17px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 172px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho358 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 101px;
+  height              : 35px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 169px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho359 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 217px;
+  height              : 7px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 128px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho360 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 158px;
+  height              : 6px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 238px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho361 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 223px;
+  height              : 11px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 167px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .caminho362 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 249px;
+  height              : 15px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2270 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 116px;
+  height              : 30px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 189px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2270 .caminho363 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 12px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2270 .caminho364 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 7px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.25;
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2270 .caminho365 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 7px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.25;
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2270 .caminho366 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 6px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2270 .caminho367 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 5px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2270 .caminho368 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 5px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2270 .caminho369 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 4px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2270 .caminho370 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .agrupar2271 .agrupar2270 .caminho371 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : 5px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .caminho241 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 38px;
+  height              : 26px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(34deg); /* IE 9 */
+  -webkit-transform   : rotate(34deg); /* Chrome, Safari, Opera */
+  transform           : rotate(34deg);
+}
+.tela2 .tutorialsu2013dark .illustration .caminho1395 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : 26px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 273px;
+  -ms-transform       : rotate(19deg); /* IE 9 */
+  -webkit-transform   : rotate(19deg); /* Chrome, Safari, Opera */
+  transform           : rotate(19deg);
+}
+.tela2 .tutorialsu2013dark .illustration .caminho1396 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 238px;
+  height              : 11px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .caminho1397 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 148px;
+  height              : 11px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 156px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tela2 .tutorialsu2013dark .illustration .cloud {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : 34px;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.37;
+}
+.tela2 .tutorialsu2013dark .illustration .cloud2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 293px;
+  height              : 34px;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 271px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.35;
+}
+.tela2 .tutorialsu2013dark .illustration .cloud3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 285px;
+  height              : 15px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 244px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.35;
+}
+.tela2 .tutorialsu2013dark .illustration .cloud4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 24px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 268px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.33;
+}
+.tela2 .tutorialsu2013dark .illustration .cloud5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 107px;
+  height              : 17px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.37;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

@@ -1,0 +1,2259 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+
+.senha {
+  width               : 100%;
+  min-width           : 375px;
+  height              : 100vh;
+  min-height          : 812px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.senha .forgotpasswordu2013dark {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -1px;
+  height              : 813px;
+  width               : 375px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 812px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .bgwallpaper {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 812px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .bgwallpaper .bgwallpaper2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 812px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .iphonexbottombar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 796px;
+  height              : 6px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .iphonexbottombar .iphonexbottombar2 {
+  background-color    : rgba(114, 125, 138, 1.0);
+  top                 : 0px;
+  height              : 6px;
+  width               : 160px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.senha .forgotpasswordu2013dark .keypaddark {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 521px;
+  height              : 292px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .background {
+  background-color    : rgba(27, 33, 59, 1.0);
+  top                 : 1px;
+  height              : 291px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .exclusion10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 242px;
+  height              : 25px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 330px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .dictationpath {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 243px;
+  height              : 15px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 335px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .exclusion14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 240px;
+  height              : 27px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .emojipath {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 248px;
+  height              : 3px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 170px;
+  height              : 43px;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 284px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group .key32 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 88px;
+  position            : relative;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .return {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 181px;
+  height              : 23px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 304px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .return .return1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 170px;
+  height              : 43px;
+  width               : 184px;
+  position            : absolute;
+  margin              : 0;
+  left                : 95px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group1 .key33 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 184px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .space {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 180px;
+  height              : 23px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 162px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .space .spac {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .space .e1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 170px;
+  height              : 43px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group2 .key34 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 87px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .a123 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 183px;
+  height              : 23px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 35px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .a123 .a1231 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : 43px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 330px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group3 .key35 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 42px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .back {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 131px;
+  height              : 17px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 340px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 284px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group4 .key36 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .m {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : 29px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 290px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .m .m1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 247px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group5 .key37 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .n {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : 29px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 255px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .n .n1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 209px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group6 .key38 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .b {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : 29px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 219px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .b .b1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 172px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group7 .key39 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .v {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : 29px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 180px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .v .v1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 134px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group8 .key40 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .c {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : 29px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .c .c1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 96px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group9 .key41 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .x {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : 29px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .x .x1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 59px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group10 .key42 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .z {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : 29px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .z .z1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : 43px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group11 .key43 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 42px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .shift {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 131px;
+  height              : 16px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 322px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group12 .key44 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .l {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : 29px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 333px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .l .l1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 284px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group13 .key45 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .k {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : 29px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 294px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .k .k1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 247px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group14 .key46 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .j {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : 29px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 256px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .j .j1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 209px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group15 .key47 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .h {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : 29px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 217px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .h .h1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 172px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group16 .key48 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .g {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : 29px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 179px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .g .g1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 134px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group17 .key49 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .f {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : 29px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 144px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .f .f1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 96px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group18 .key50 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .d {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : 29px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .d .d1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 59px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group19 .key51 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .s {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : 29px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 68px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .s .s1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group20 .key52 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .a {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : 29px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .a .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 340px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group21 .key53 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .p {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 29px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 349px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .p .p1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 303px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group22 .key54 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .o {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 29px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 310px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .o .o1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group23 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 265px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group23 .key55 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .i {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 29px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 278px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .i .i1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group24 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 228px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group24 .key56 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .u {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 29px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 236px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .u .u1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group25 .key57 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .y {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 29px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 200px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .y .y1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group26 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 153px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group26 .key58 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .t {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 29px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 163px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .t .t1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group27 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 115px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group27 .key59 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .r {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 29px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .r .r1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group28 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group28 .key60 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .e {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 29px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 88px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .e .e1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group29 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group29 .key61 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 1px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .w {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 29px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .w .w1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .keypaddark .group30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 43px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .group30 .key62 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 1px;
+  height              : 42px;
+  width               : 32px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .q {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 29px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .keypaddark .q .q1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 31.0px;
+}
+.senha .forgotpasswordu2013dark .submitbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 423px;
+  height              : 50px;
+  width               : 315px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .submitbutton .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 315px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .submitbutton .submit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 17px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 137px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .submitbutton .submit .enviar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.senha .forgotpasswordu2013dark .email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 165px;
+  height              : 59px;
+  width               : 318px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .email .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : 2px;
+  width               : 315px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .email .line .rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 315px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .email .line .rectangle3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 315px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .email .username {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  width               : 79px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .email .username .emailaddress {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 17.0px;
+}
+.senha .forgotpasswordu2013dark .email .tick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 298px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .email .tick .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 14px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .email .tick .icofettleproper {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .email .tick .icofettleproper .colora {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 20px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .email .tick .icofettleproper .colora .colorfp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .forgotpassword {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 106px;
+  height              : 33px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .forgotpassword .entrecomoseuemail {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.senha .forgotpasswordu2013dark .back2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 38px;
+  height              : 14px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .back2 .rounded {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 13px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .back2 .rounded .caminho6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 12px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .back2 .linha3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 3px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.senha .forgotpasswordu2013dark .iphonexbottombar1 {
+  background-color    : rgba(49, 56, 72, 1.0);
+  top                 : 798px;
+  height              : 5px;
+  width               : 134px;
+  position            : absolute;
+  margin              : 0;
+  left                : 121px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
